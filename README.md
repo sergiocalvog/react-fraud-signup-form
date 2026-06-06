@@ -9,7 +9,7 @@ A modern, glassmorphic React signup form that blocks disposable and temporary em
 Fake signups using temporary email services (like Mailinator, Yopmail, 10MinuteMail) pollute your lead database, distort your analytics, and consume valuable server resources.
 
 ## The Solution
-This template integrates a beautiful, responsive React component with the [Disposable-Shield Email Validator API](https://rapidapi.com/) to block **6,776+ known disposable domains** in milliseconds before the user can even click submit.
+This template integrates a beautiful, responsive React component with the [Disposable-Shield Email Validator API](https://rapidapi.com/sergiocalvog/api/disposable-shield-email-validator) to block **6,776+ known disposable domains** in milliseconds before the user can even click submit.
 
 ### Features ✨
 - 🎨 **Premium UI**: Glassmorphism design, vibrant gradients, and micro-animations.
