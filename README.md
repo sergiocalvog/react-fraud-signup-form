@@ -31,7 +31,7 @@ This template integrates a beautiful, responsive React component with the [Dispo
    ```
 
 3. **Get your Free API Key**
-   - Go to [Disposable-Shield on RapidAPI](https://rapidapi.com/)
+   - Go to [Disposable-Shield on RapidAPI](https://rapidapi.com/sergiocalvog/api/disposable-shield-email-validator)
    - Subscribe to the **Free Basic Plan** (200 requests/month).
    - Copy your `X-RapidAPI-Key`.
 
